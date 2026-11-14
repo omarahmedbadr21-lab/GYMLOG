@@ -1,0 +1,839 @@
+{
+ "app": "gym-log",
+ "version": 3,
+ "exportedAt": "2026-11-13T23:10:00Z",
+ "workouts": [
+  {
+   "bodyWeight": 80,
+   "createdAt": 1762300000000,
+   "date": "2026-11-05",
+   "duration": "2 hrs",
+   "exercises": [
+    {
+     "alt": false,
+     "bw": true,
+     "group": "Main",
+     "name": "Pull Ups",
+     "note": "Support planned · done non-supported",
+     "sets": [
+      {
+       "kg": 0,
+       "note": "",
+       "reps": 5
+      },
+      {
+       "kg": 0,
+       "note": "",
+       "reps": 3
+      },
+      {
+       "kg": 0,
+       "note": "",
+       "reps": 3
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Chest Supported Row",
+     "note": "",
+     "sets": [
+      {
+       "kg": 40,
+       "note": "",
+       "reps": 5
+      },
+      {
+       "kg": 30,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 25,
+       "note": "",
+       "reps": 10
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Lats Pull Down WG",
+     "note": "",
+     "sets": [
+      {
+       "kg": 67,
+       "note": "",
+       "reps": 5
+      },
+      {
+       "kg": 57,
+       "note": "",
+       "reps": 9.5
+      },
+      {
+       "kg": 47,
+       "note": "",
+       "reps": 10
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Lats Pull Down CG",
+     "note": "",
+     "sets": [],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Lats Prayers",
+     "note": "",
+     "sets": [
+      {
+       "kg": 32,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 32,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 28.7,
+       "note": "WG",
+       "reps": 9.5
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Lower Back Extension",
+     "note": "",
+     "sets": [
+      {
+       "kg": 15,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 15,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 15,
+       "note": "",
+       "reps": 10
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Full Back Row",
+     "note": "",
+     "sets": [
+      {
+       "kg": 20,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 25,
+       "note": "R",
+       "reps": 7
+      },
+      {
+       "kg": 25,
+       "note": "L",
+       "reps": 3
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Cable Row CG",
+     "note": "",
+     "sets": [],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Abs Machine",
+     "note": "",
+     "sets": [
+      {
+       "kg": 30,
+       "note": "",
+       "reps": 15
+      },
+      {
+       "kg": 35,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 30,
+       "note": "",
+       "reps": 10
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Cardio",
+     "note": "",
+     "sets": [
+      {
+       "kg": null,
+       "note": "inc 4, sp 9",
+       "reps": null
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 1,
+     "unit": "min"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Stretch on Pull-up Bar",
+     "note": "",
+     "sets": [
+      {
+       "kg": null,
+       "note": "",
+       "reps": 35
+      }
+     ],
+     "targetReps": 60,
+     "targetSets": 1,
+     "unit": "sec"
+    },
+    {
+     "alt": false,
+     "bw": true,
+     "group": "Optional",
+     "name": "Supported Pull Ups",
+     "note": "Support",
+     "sets": [
+      {
+       "kg": -20,
+       "note": "",
+       "reps": 4.5
+      },
+      {
+       "kg": -35,
+       "note": "WG",
+       "reps": 5
+      }
+     ],
+     "targetReps": null,
+     "targetSets": 2,
+     "unit": "reps"
+    }
+   ],
+   "notes": "",
+   "templateId": "t-back",
+   "title": "Back Day",
+   "updatedAt": 1794610564871,
+   "week": 0,
+   "id": "w-2026-11-05-back"
+  },
+  {
+   "createdAt": 1762560000000,
+   "date": "2026-11-08",
+   "duration": "2 hrs",
+   "exercises": [
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Bench Press",
+     "note": "With bar",
+     "sets": [
+      {
+       "kg": 80,
+       "note": "",
+       "reps": 2
+      },
+      {
+       "kg": 60,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 70,
+       "note": "",
+       "reps": 4
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Incline Dumbbell Bench Press",
+     "note": "",
+     "sets": [
+      {
+       "kg": 25,
+       "note": "",
+       "reps": 7
+      },
+      {
+       "kg": 25,
+       "note": "",
+       "reps": 4
+      },
+      {
+       "kg": 22.5,
+       "note": "",
+       "reps": 6
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Incline Barbell Bench Press",
+     "note": "",
+     "sets": [],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Incline Machine Press",
+     "note": "",
+     "sets": [],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Fly Machine",
+     "note": "",
+     "sets": [],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Cable Mid Fly",
+     "note": "",
+     "sets": [
+      {
+       "kg": 10,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 12.5,
+       "note": "",
+       "reps": 6
+      },
+      {
+       "kg": 10,
+       "note": "",
+       "reps": 10
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Cable Low Fly",
+     "note": "",
+     "sets": [
+      {
+       "kg": 10,
+       "note": "",
+       "reps": 10
+      },
+      {
+       "kg": 12.5,
+       "note": "",
+       "reps": 7
+      },
+      {
+       "kg": 10,
+       "note": "",
+       "reps": 10
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Chest Dip",
+     "note": "Supported",
+     "sets": [
+      {
+       "kg": 0,
+       "note": "",
+       "reps": 5
+      },
+      {
+       "kg": 0,
+       "note": "WG",
+       "reps": 4
+      },
+      {
+       "kg": 0,
+       "note": "WG",
+       "reps": 3.5
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Finishers",
+     "name": "Bench Press Low Weight",
+     "note": "",
+     "sets": [
+      {
+       "kg": 50,
+       "note": "",
+       "reps": 6
+      },
+      {
+       "kg": 40,
+       "note": "",
+       "reps": 7
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 2,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Finishers",
+     "name": "Iso Incline Chest Machine",
+     "note": "",
+     "sets": [
+      {
+       "kg": 20,
+       "note": "",
+       "reps": 6
+      },
+      {
+       "kg": 20,
+       "note": "",
+       "reps": 6
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 2,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Abs Machine",
+     "note": "",
+     "sets": [],
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Cardio",
+     "note": "",
+     "sets": [
+      {
+       "kg": null,
+       "note": "inc 5, sp 10",
+       "reps": 15
+      }
+     ],
+     "targetReps": 10,
+     "targetSets": 1,
+     "unit": "min"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Stretch on Pull-up Bar",
+     "note": "",
+     "sets": [],
+     "targetReps": 60,
+     "targetSets": 1,
+     "unit": "sec"
+    }
+   ],
+   "notes": "",
+   "templateId": "t-chest",
+   "title": "Chest Day",
+   "updatedAt": 1794610692919,
+   "week": 0,
+   "id": "w-2026-11-08-chest"
+  }
+ ],
+ "templates": [
+  {
+   "exercises": [
+    {
+     "alt": false,
+     "bw": true,
+     "group": "Main",
+     "name": "Pull Ups",
+     "note": "Support",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Chest Supported Row",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Lats Pull Down WG",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Lats Pull Down CG",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Lats Prayers",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Lower Back Extension",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Full Back Row",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Cable Row CG",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Abs Machine",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Cardio",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 1,
+     "unit": "min"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Stretch on Pull-up Bar",
+     "note": "",
+     "targetReps": 60,
+     "targetSets": 1,
+     "unit": "sec"
+    },
+    {
+     "alt": false,
+     "bw": true,
+     "group": "Optional",
+     "name": "Supported Pull Ups",
+     "note": "Support",
+     "targetReps": null,
+     "targetSets": 2,
+     "unit": "reps"
+    }
+   ],
+   "name": "Back Day",
+   "id": "t-back"
+  },
+  {
+   "exercises": [
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Bench Press",
+     "note": "With bar",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Incline Dumbbell Bench Press",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Incline Barbell Bench Press",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Incline Machine Press",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Fly Machine",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": true,
+     "bw": false,
+     "group": "Main",
+     "name": "Cable Mid Fly",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Main",
+     "name": "Cable Low Fly",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": true,
+     "group": "Main",
+     "name": "Chest Dip",
+     "note": "Supported",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Finishers",
+     "name": "Bench Press Low Weight",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 2,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Finishers",
+     "name": "Iso Incline Chest Machine",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 2,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Abs Machine",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 3,
+     "unit": "reps"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Cardio",
+     "note": "",
+     "targetReps": 10,
+     "targetSets": 1,
+     "unit": "min"
+    },
+    {
+     "alt": false,
+     "bw": false,
+     "group": "Optional",
+     "name": "Stretch on Pull-up Bar",
+     "note": "",
+     "targetReps": 60,
+     "targetSets": 1,
+     "unit": "sec"
+    }
+   ],
+   "name": "Chest Day",
+   "id": "t-chest"
+  },
+  {
+   "exercises": [
+    {
+     "alt": false,
+     "group": "Main",
+     "name": "",
+     "note": "",
+     "target": "",
+     "unit": "reps"
+    }
+   ],
+   "name": "New routine",
+   "id": "tmwfjyyjwaraz"
+  }
+ ],
+ "bodyweight": [
+  {
+   "createdAt": 1794610252727,
+   "date": "2026-11-14",
+   "kg": 80,
+   "id": "bw-2026-11-14"
+  }
+ ],
+ "photos": []
+}
